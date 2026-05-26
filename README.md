@@ -202,8 +202,10 @@ Open the `results/` folder to find all 9 PNG plots automatically saved.
 ## 👤 Author
 
 **Aditya Singh Rathore**
-Wireless Communication Engineering
-5G mmWave Propagation Project
+**Pratham Kumar**
+**Poojanshu Sharma**
+
+
 
 ---
 
